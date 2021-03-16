@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SecretSharing</string>
+
+
+    <!-- button names -->
+    <string name="split">split QR code</string>
+    <string name="combine">combine QR code</string>
+
+</resources>
